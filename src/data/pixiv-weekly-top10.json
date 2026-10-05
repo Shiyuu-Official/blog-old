@@ -1,209 +1,219 @@
 {
-  "generatedAt": "2026-09-28T09:01:06.490596Z",
+  "generatedAt": "2026-10-05T09:41:01.143575Z",
   "source": "pixivpy3:illust_ranking(mode=week)",
   "total": 10,
   "items": [
     {
       "rank": 1,
-      "id": "149905913",
-      "title": "北国急行プロジェクト",
-      "userName": "雨壱絵穹",
-      "userId": "2459678",
-      "artworkUrl": "https://www.pixiv.net/artworks/149905913",
-      "thumbnailUrl": "/pixiv-weekly/149905913.jpg",
+      "id": "150228904",
+      "title": "アナスターシャ",
+      "userName": "赤倉＠画集発売中",
+      "userId": "882569",
+      "artworkUrl": "https://www.pixiv.net/artworks/150228904",
+      "thumbnailUrl": "/pixiv-weekly/150228904.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/21/00/06/54/149905913_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/29/00/00/41/150228904_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/21/00/06/54/149905913_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/29/00/00/41/150228904_p0_master1200.jpg",
       "tags": [
-        "原神",
-        "GenshinImpact",
-        "HoYoFair",
         "仕事絵",
-        "原神1000users入り",
-        "蛍(原神)"
+        "原神",
+        "アナスターシャ・フョードロヴナ・スネージナヤ",
+        "魔神(原神)",
+        "俗世の七執政",
+        "原神10000users入り"
       ]
     },
     {
       "rank": 2,
-      "id": "150026805",
-      "title": "ヤン・ジシュカ＆フシアナ・シロトチー",
-      "userName": "霧月",
-      "userId": "430037",
-      "artworkUrl": "https://www.pixiv.net/artworks/150026805",
-      "thumbnailUrl": "/pixiv-weekly/150026805.jpg",
+      "id": "150258897",
+      "title": "no.2239 『 むす 』",
+      "userName": "8810⋱YouTube開始⋰",
+      "userId": "27384568",
+      "artworkUrl": "https://www.pixiv.net/artworks/150258897",
+      "thumbnailUrl": "/pixiv-weekly/150258897.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/23/22/14/35/150026805_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/29/21/48/13/150258897_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/23/22/14/35/150026805_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/29/21/48/13/150258897_p0_master1200.jpg",
       "tags": [
-        "Fate/GrandOrder",
-        "FGO",
-        "ヤン・ジシュカ(Fate)",
-        "フシアナ・シロトチー",
-        "パンプキンファーム・スローター",
-        "フシアナ(Fate)",
-        "FGOご本人"
+        "創作",
+        "オリジナル",
+        "オリキャラ",
+        "漫画",
+        "天むす",
+        "底むす",
+        "むす",
+        "入れ替わってる〜!?!?!?",
+        "お久しぶりえびです"
       ]
     },
     {
       "rank": 3,
-      "id": "149983184",
-      "title": "おそろいリボン",
-      "userName": "豆腐",
-      "userId": "120964269",
-      "artworkUrl": "https://www.pixiv.net/artworks/149983184",
-      "thumbnailUrl": "/pixiv-weekly/149983184.jpg",
+      "id": "150264940",
+      "title": "💙🤍",
+      "userName": "夢ノ内",
+      "userId": "229788",
+      "artworkUrl": "https://www.pixiv.net/artworks/150264940",
+      "thumbnailUrl": "/pixiv-weekly/150264940.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/22/21/52/58/149983184_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/30/00/00/27/150264940_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/22/21/52/58/149983184_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/30/00/00/27/150264940_p0_master1200.jpg",
       "tags": [
-        "ちいかわ",
-        "でかつよ",
-        "ハチワレ(でかつよ)",
-        "うさぎ(でかつよ)",
-        "強くなったハチワレ",
-        "平和な世界",
-        "ｲｲﾊﾅｼﾀﾞﾅｰ",
-        "なにこの仔たちかわいい"
+        "女の子",
+        "オリジナル",
+        "オリジナル3000users入り"
       ]
     },
     {
       "rank": 4,
-      "id": "149937733",
-      "title": "スフレチーズケーキ",
+      "id": "150236734",
+      "title": "個人メモ：奥行きのある首を描くコツ",
+      "userName": "漫画素材工房",
+      "userId": "16776564",
+      "artworkUrl": "https://www.pixiv.net/artworks/150236734",
+      "thumbnailUrl": "/pixiv-weekly/150236734.jpg",
+      "fallbackThumbnailUrls": [
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/29/06/00/16/150236734_p0_master1200.jpg"
+      ],
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/29/06/00/16/150236734_p0_master1200.jpg",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人体",
+        "身体",
+        "美術解剖学",
+        "顔",
+        "首"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "150271313",
+      "title": "くたばれ！ パンプキンファーム･スローター",
+      "userName": "ポテトルス",
+      "userId": "14601125",
+      "artworkUrl": "https://www.pixiv.net/artworks/150271313",
+      "thumbnailUrl": "/pixiv-weekly/150271313.jpg",
+      "fallbackThumbnailUrls": [
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/30/04/06/12/150271313_p0_master1200.jpg"
+      ],
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/30/04/06/12/150271313_p0_master1200.jpg",
+      "tags": [
+        "Fate/GrandOrder",
+        "パンプキンファーム・スローター",
+        "ヘンリー・ジキル/ハイド(Fate)",
+        "ジャック・ザ・リッパー(Fate)",
+        "バーヴァン・シー(Fate)",
+        "ツタンカーメン(Fate)",
+        "ナウクラテー(Fate)",
+        "ダイダロス(Fate)",
+        "ククルカン(Fate)"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "150291934",
+      "title": "りんご飴",
       "userName": "チャイ",
       "userId": "1096811",
-      "artworkUrl": "https://www.pixiv.net/artworks/149937733",
-      "thumbnailUrl": "/pixiv-weekly/149937733.jpg",
+      "artworkUrl": "https://www.pixiv.net/artworks/150291934",
+      "thumbnailUrl": "/pixiv-weekly/150291934.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/21/20/30/04/149937733_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/30/20/30/16/150291934_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/21/20/30/04/149937733_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/30/20/30/16/150291934_p0_master1200.jpg",
       "tags": [
         "オリジナル",
-        "チーズケーキ",
+        "肉球スタンプ",
+        "りんご飴",
+        "あしあと",
+        "素晴らしきほっこりの世界",
         "すいーつねこ",
-        "なにこれかわいい",
-        "しゅわ⋯",
-        "ふわふわbed",
-        "クリーム…じゃないネコ",
-        "ごめん寝",
         "食べ物1000users入り",
         "オリジナル1000users入り"
       ]
     },
     {
-      "rank": 5,
-      "id": "149989168",
-      "title": "カプラ・リブラス",
-      "userName": "lack",
-      "userId": "83739",
-      "artworkUrl": "https://www.pixiv.net/artworks/149989168",
-      "thumbnailUrl": "/pixiv-weekly/149989168.jpg",
-      "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/23/00/00/27/149989168_p0_master1200.jpg"
-      ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/23/00/00/27/149989168_p0_master1200.jpg",
-      "tags": [
-        "カプラ・リブラス",
-        "Vtuber",
-        "REJECT",
-        "バーチャルYouTuber1000users入り"
-      ]
-    },
-    {
-      "rank": 6,
-      "id": "149947912",
-      "title": "レミリア",
-      "userName": "majamari",
-      "userId": "3447787",
-      "artworkUrl": "https://www.pixiv.net/artworks/149947912",
-      "thumbnailUrl": "/pixiv-weekly/149947912.jpg",
-      "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/22/00/00/28/149947912_p0_master1200.jpg"
-      ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/22/00/00/28/149947912_p0_master1200.jpg",
-      "tags": [
-        "東方",
-        "レミリア・スカーレット",
-        "東方紅魔郷NewClassic",
-        "東方Project1000users入り"
-      ]
-    },
-    {
       "rank": 7,
-      "id": "149947902",
-      "title": "❓",
-      "userName": "わか",
-      "userId": "11079351",
-      "artworkUrl": "https://www.pixiv.net/artworks/149947902",
-      "thumbnailUrl": "/pixiv-weekly/149947902.jpg",
+      "id": "150228978",
+      "title": "和服化まとめ",
+      "userName": "hakusai",
+      "userId": "1589657",
+      "artworkUrl": "https://www.pixiv.net/artworks/150228978",
+      "thumbnailUrl": "/pixiv-weekly/150228978.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/22/00/00/26/149947902_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/29/07/34/42/150228978_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/22/00/00/26/149947902_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/29/07/34/42/150228978_p0_master1200.jpg",
       "tags": [
-        "オリジナル",
-        "女の子"
+        "プロセカ",
+        "気ままに和服化",
+        "プロジェクトセカイ",
+        "和服シェリル"
       ]
     },
     {
       "rank": 8,
-      "id": "149956485",
-      "title": "個人メモ：指関節の体表",
-      "userName": "漫画素材工房",
-      "userId": "16776564",
-      "artworkUrl": "https://www.pixiv.net/artworks/149956485",
-      "thumbnailUrl": "/pixiv-weekly/149956485.jpg",
+      "id": "150242913",
+      "title": "『LOST AND ROLL/ 魂音泉』",
+      "userName": "零＠通販始めた",
+      "userId": "74184",
+      "artworkUrl": "https://www.pixiv.net/artworks/150242913",
+      "thumbnailUrl": "/pixiv-weekly/150242913.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/22/06/00/11/149956485_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/29/12/20/49/150242913_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/22/06/00/11/149956485_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/29/12/20/49/150242913_p0_master1200.jpg",
       "tags": [
-        "漫画素材工房",
-        "描き方",
-        "人体",
-        "美術解剖学",
-        "身体",
-        "手"
+        "魂音泉",
+        "東方Project",
+        "東方",
+        "チルノ"
       ]
     },
     {
       "rank": 9,
-      "id": "150011442",
-      "title": "skeb",
-      "userName": "Ameもちᵕ̈*🍭",
-      "userId": "59688623",
-      "artworkUrl": "https://www.pixiv.net/artworks/150011442",
-      "thumbnailUrl": "/pixiv-weekly/150011442.jpg",
+      "id": "150251183",
+      "title": "人生で同じ人に二度…",
+      "userName": "高梨りんご＠fanbox",
+      "userId": "329258",
+      "artworkUrl": "https://www.pixiv.net/artworks/150251183",
+      "thumbnailUrl": "/pixiv-weekly/150251183.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/23/15/52/14/150011442_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/29/18/40/39/150251183_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/23/15/52/14/150011442_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/29/18/40/39/150251183_p0_master1200.jpg",
       "tags": [
-        "狐の嫁入り",
-        "着物"
+        "名探偵プリキュア!",
+        "帆羽くれあ",
+        "森亜るるか",
+        "るるくれ",
+        "百合",
+        "たんプリ1000users入り"
       ]
     },
     {
       "rank": 10,
-      "id": "149905232",
-      "title": "カプラ・リブラス",
-      "userName": "lack",
-      "userId": "83739",
-      "artworkUrl": "https://www.pixiv.net/artworks/149905232",
-      "thumbnailUrl": "/pixiv-weekly/149905232.jpg",
+      "id": "150211772",
+      "title": "原神６周年おめでとう！",
+      "userName": "おいしい笹茶*",
+      "userId": "55251958",
+      "artworkUrl": "https://www.pixiv.net/artworks/150211772",
+      "thumbnailUrl": "/pixiv-weekly/150211772.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/21/00/00/14/149905232_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/28/17/13/16/150211772_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/09/21/00/00/14/149905232_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/09/28/17/13/16/150211772_p0_master1200.jpg",
       "tags": [
-        "REJECT",
-        "カプラ・リブラス",
-        "VTuber",
-        "バーチャルYouTuber1000users入り"
+        "原神",
+        "GenshinImpact",
+        "ナヒーダ",
+        "放浪者(原神)",
+        "蛍(原神)",
+        "HOTLIMIT",
+        "原神1000users入り"
       ]
     }
   ]
