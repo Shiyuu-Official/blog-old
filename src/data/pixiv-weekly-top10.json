@@ -1,83 +1,82 @@
 {
-  "generatedAt": "2026-10-26T08:11:13.527011Z",
+  "generatedAt": "2026-11-02T10:09:44.717860Z",
   "source": "pixivpy3:illust_ranking(mode=week)",
   "total": 10,
   "items": [
     {
       "rank": 1,
-      "id": "151061734",
-      "title": "個人メモ：パーカー・フードの描き方",
-      "userName": "漫画素材工房",
-      "userId": "16776564",
-      "artworkUrl": "https://www.pixiv.net/artworks/151061734",
-      "thumbnailUrl": "/pixiv-weekly/151061734.jpg",
+      "id": "151339262",
+      "title": "まだブームが続いてるようです",
+      "userName": "幸永",
+      "userId": "743604",
+      "artworkUrl": "https://www.pixiv.net/artworks/151339262",
+      "thumbnailUrl": "/pixiv-weekly/151339262.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/20/06/00/37/151061734_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/14/39/05/151339262_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/20/06/00/37/151061734_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/14/39/05/151339262_p0_master1200.jpg",
       "tags": [
-        "漫画素材工房",
-        "描き方",
-        "人体",
-        "身体",
-        "人物",
-        "服",
-        "フード",
-        "パーカー"
+        "新宿のアーチャー",
+        "Fate/GrandOrder",
+        "ぐだ男",
+        "FGO"
       ]
     },
     {
       "rank": 2,
-      "id": "151016210",
-      "title": "GYARU GIRL",
-      "userName": "TOKKYU",
-      "userId": "23098486",
-      "artworkUrl": "https://www.pixiv.net/artworks/151016210",
-      "thumbnailUrl": "/pixiv-weekly/151016210.jpg",
+      "id": "151322068",
+      "title": "望月穂波誕生祭2026",
+      "userName": "Sa-fu",
+      "userId": "77915733",
+      "artworkUrl": "https://www.pixiv.net/artworks/151322068",
+      "thumbnailUrl": "/pixiv-weekly/151322068.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/19/00/00/43/151016210_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/30/151322068_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/19/00/00/43/151016210_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/30/151322068_p0_master1200.jpg",
       "tags": [
-        "オリジナル",
-        "女の子",
-        "ギャル",
-        "金髪碧眼",
-        "ファー",
-        "ピンクネイル"
+        "プロセカ",
+        "望月穂波",
+        "投稿日に愛を感じる",
+        "プロセカ1000users入り"
       ]
     },
     {
       "rank": 3,
-      "id": "151080719",
-      "title": "Three O’Clock Étude",
-      "userName": "双木 樹",
-      "userId": "67364455",
-      "artworkUrl": "https://www.pixiv.net/artworks/151080719",
-      "thumbnailUrl": "/pixiv-weekly/151080719.jpg",
+      "id": "151322085",
+      "title": "コンプレックス",
+      "userName": "はむねずこ",
+      "userId": "6544352",
+      "artworkUrl": "https://www.pixiv.net/artworks/151322085",
+      "thumbnailUrl": "/pixiv-weekly/151322085.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/20/20/30/41/151080719_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/33/151322085_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/20/20/30/41/151080719_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/33/151322085_p0_master1200.jpg",
       "tags": [
+        "女の子",
         "オリジナル",
-        "創作",
-        "オリジナル1000users入り"
+        "伏臥",
+        "オリジナル1000users入り",
+        "ヘッドドレス"
       ]
     },
     {
       "rank": 4,
-      "id": "151061178",
-      "title": "龍ミク",
+      "id": "151323585",
+      "title": "運転ロボじゃないってば！",
       "userName": "zero",
       "userId": "21950320",
-      "artworkUrl": "https://www.pixiv.net/artworks/151061178",
-      "thumbnailUrl": "/pixiv-weekly/151061178.jpg",
+      "artworkUrl": "https://www.pixiv.net/artworks/151323585",
+      "thumbnailUrl": "/pixiv-weekly/151323585.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/20/05/21/09/151061178_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/30/57/151323585_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/20/05/21/09/151061178_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/30/57/151323585_p0_master1200.jpg",
       "tags": [
+        "巡音ルカ",
+        "鏡音リン",
+        "鏡音レン",
         "初音ミク",
         "VOCALOID",
         "VOCALOID1000users入り"
@@ -85,123 +84,116 @@
     },
     {
       "rank": 5,
-      "id": "151078326",
-      "title": "怪異さんと俺《参》本日発売！",
-      "userName": "ふに・無9",
-      "userId": "24367326",
-      "artworkUrl": "https://www.pixiv.net/artworks/151078326",
-      "thumbnailUrl": "/pixiv-weekly/151078326.jpg",
+      "id": "151305074",
+      "title": "(かわいすぎ……)",
+      "userName": "千種みのり@お仕事募集中",
+      "userId": "41106591",
+      "artworkUrl": "https://www.pixiv.net/artworks/151305074",
+      "thumbnailUrl": "/pixiv-weekly/151305074.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/20/19/33/29/151078326_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/26/17/15/41/151305074_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/20/19/33/29/151078326_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/26/17/15/41/151305074_p0_master1200.jpg",
       "tags": [
         "オリジナル",
-        "オカルト",
-        "怪異さんと俺",
-        "怪異",
-        "神様",
-        "春夏秋冬"
+        "女の子",
+        "志乃と恋",
+        "オリジナル1000users入り",
+        "白雪恋",
+        "早乙女志乃"
       ]
     },
     {
       "rank": 6,
-      "id": "151053778",
-      "title": "打倒ポッターへの決意を固めるマルフォイ",
-      "userName": "スコッティ",
-      "userId": "103410",
-      "artworkUrl": "https://www.pixiv.net/artworks/151053778",
-      "thumbnailUrl": "/pixiv-weekly/151053778.jpg",
+      "id": "151311802",
+      "title": "雪女、人里を楽しむ",
+      "userName": "ふに・無9",
+      "userId": "24367326",
+      "artworkUrl": "https://www.pixiv.net/artworks/151311802",
+      "thumbnailUrl": "/pixiv-weekly/151311802.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/20/00/00/26/151053778_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/26/20/22/21/151311802_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/20/00/00/26/151053778_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/26/20/22/21/151311802_p0_master1200.jpg",
       "tags": [
-        "マルフォイ",
-        "ハリーポッター",
-        "咥え髪留め",
-        "♀ドラコ",
-        "Malfoid",
-        "ハリポタ5000users入り"
+        "オリジナル",
+        "オカルト",
+        "怪異さんと俺",
+        "雪女"
       ]
     },
     {
       "rank": 7,
-      "id": "151113939",
-      "title": "焼売",
-      "userName": "チャイ",
-      "userId": "1096811",
-      "artworkUrl": "https://www.pixiv.net/artworks/151113939",
-      "thumbnailUrl": "/pixiv-weekly/151113939.jpg",
+      "id": "151322037",
+      "title": "旅人の煽りにピキるロノヴァ",
+      "userName": "スコッティ",
+      "userId": "103410",
+      "artworkUrl": "https://www.pixiv.net/artworks/151322037",
+      "thumbnailUrl": "/pixiv-weekly/151322037.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/21/20/30/07/151113939_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/25/151322037_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/21/20/30/07/151113939_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/25/151322037_p0_master1200.jpg",
       "tags": [
-        "オリジナル",
-        "素晴らしきほっこりの世界",
-        "ネコと和解せよ",
-        "しゅうみゃい",
-        "焼売",
-        "「あげる!」",
-        "いきものごはん"
+        "原神",
+        "ロノヴァ",
+        "原神5000users入り",
+        "白髪"
       ]
     },
     {
       "rank": 8,
-      "id": "151090277",
-      "title": "臨在神・リリム",
-      "userName": "void_0",
-      "userId": "14801956",
-      "artworkUrl": "https://www.pixiv.net/artworks/151090277",
-      "thumbnailUrl": "/pixiv-weekly/151090277.jpg",
+      "id": "151283666",
+      "title": "マーゴ",
+      "userName": "梅原生（せい）",
+      "userId": "3906246",
+      "artworkUrl": "https://www.pixiv.net/artworks/151283666",
+      "thumbnailUrl": "/pixiv-weekly/151283666.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/21/00/00/39/151090277_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/26/00/00/39/151283666_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/21/00/00/39/151090277_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/26/00/00/39/151283666_p0_master1200.jpg",
       "tags": [
-        "女の子",
-        "オリジナル",
-        "イラスト",
-        "逆光",
-        "美しい",
-        "転生紀元",
-        "裸足"
+        "魔法少女ノ魔女裁判",
+        "まのさば",
+        "宝生マーゴ"
       ]
     },
     {
       "rank": 9,
-      "id": "151034006",
-      "title": "米莉亚",
-      "userName": "鬼针草",
-      "userId": "6049901",
-      "artworkUrl": "https://www.pixiv.net/artworks/151034006",
-      "thumbnailUrl": "/pixiv-weekly/151034006.jpg",
+      "id": "151322077",
+      "title": "黒百合 白百合-根の国底の果て-",
+      "userName": "七原しえ",
+      "userId": "114086",
+      "artworkUrl": "https://www.pixiv.net/artworks/151322077",
+      "thumbnailUrl": "/pixiv-weekly/151322077.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/19/14/41/47/151034006_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/32/151322077_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/19/14/41/47/151034006_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/32/151322077_p0_master1200.jpg",
       "tags": [
-        "黒スト",
-        "KAGUYANO"
+        "オリジナル",
+        "女の子",
+        "和風",
+        "和柄",
+        "CLIPSTUDIOPAINT"
       ]
     },
     {
       "rank": 10,
-      "id": "151070449",
-      "title": "学マス箱",
-      "userName": "ポテトルス",
-      "userId": "14601125",
-      "artworkUrl": "https://www.pixiv.net/artworks/151070449",
-      "thumbnailUrl": "/pixiv-weekly/151070449.jpg",
+      "id": "151337408",
+      "title": "オナ中ヤンキーは風紀委員　その17",
+      "userName": "ハミタ",
+      "userId": "6667588",
+      "artworkUrl": "https://www.pixiv.net/artworks/151337408",
+      "thumbnailUrl": "/pixiv-weekly/151337408.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/20/14/20/41/151070449_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/12/54/44/151337408_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/10/20/14/20/41/151070449_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/12/54/44/151337408_p0_master1200.jpg",
       "tags": [
-        "学園アイドルマスター",
-        "篠澤広",
-        "藤田ことね"
+        "漫画",
+        "ざわ・・・ざわ・・・"
       ]
     }
   ]
