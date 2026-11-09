@@ -1,199 +1,210 @@
 {
-  "generatedAt": "2026-11-02T10:09:44.717860Z",
+  "generatedAt": "2026-11-09T10:29:24.360929Z",
   "source": "pixivpy3:illust_ranking(mode=week)",
   "total": 10,
   "items": [
     {
       "rank": 1,
-      "id": "151339262",
-      "title": "まだブームが続いてるようです",
+      "id": "151616953",
+      "title": "デンジャラスなアレ",
       "userName": "幸永",
       "userId": "743604",
-      "artworkUrl": "https://www.pixiv.net/artworks/151339262",
-      "thumbnailUrl": "/pixiv-weekly/151339262.jpg",
+      "artworkUrl": "https://www.pixiv.net/artworks/151616953",
+      "thumbnailUrl": "/pixiv-weekly/151616953.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/14/39/05/151339262_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/03/01/25/59/151616953_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/14/39/05/151339262_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/03/01/25/59/151616953_p0_master1200.jpg",
       "tags": [
-        "新宿のアーチャー",
         "Fate/GrandOrder",
+        "マシュ・キリエライト",
         "ぐだ男",
-        "FGO"
+        "デンジャラス・ビースト",
+        "黒歴史?",
+        "ええじゃないか",
+        "とてちて〜っ"
       ]
     },
     {
       "rank": 2,
-      "id": "151322068",
-      "title": "望月穂波誕生祭2026",
-      "userName": "Sa-fu",
-      "userId": "77915733",
-      "artworkUrl": "https://www.pixiv.net/artworks/151322068",
-      "thumbnailUrl": "/pixiv-weekly/151322068.jpg",
+      "id": "151644516",
+      "title": "クリームパン",
+      "userName": "チャイ",
+      "userId": "1096811",
+      "artworkUrl": "https://www.pixiv.net/artworks/151644516",
+      "thumbnailUrl": "/pixiv-weekly/151644516.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/30/151322068_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/03/20/30/23/151644516_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/30/151322068_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/03/20/30/23/151644516_p0_master1200.jpg",
       "tags": [
-        "プロセカ",
-        "望月穂波",
-        "投稿日に愛を感じる",
-        "プロセカ1000users入り"
+        "オリジナル",
+        "にゅ",
+        "猫は液体",
+        "クリームにゃん",
+        "クリームパン",
+        "すいーつねこ",
+        "くりーむねこ",
+        "素晴らしきほっこりの世界",
+        "食べ物1000users入り",
+        "オリジナル1000users入り"
       ]
     },
     {
       "rank": 3,
-      "id": "151322085",
-      "title": "コンプレックス",
-      "userName": "はむねずこ",
-      "userId": "6544352",
-      "artworkUrl": "https://www.pixiv.net/artworks/151322085",
-      "thumbnailUrl": "/pixiv-weekly/151322085.jpg",
+      "id": "151576917",
+      "title": "窮地を救われるマルフォイ",
+      "userName": "スコッティ",
+      "userId": "103410",
+      "artworkUrl": "https://www.pixiv.net/artworks/151576917",
+      "thumbnailUrl": "/pixiv-weekly/151576917.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/33/151322085_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/02/00/00/31/151576917_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/33/151322085_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/02/00/00/31/151576917_p0_master1200.jpg",
       "tags": [
-        "女の子",
-        "オリジナル",
-        "伏臥",
-        "オリジナル1000users入り",
-        "ヘッドドレス"
+        "マルフォイ",
+        "ハリーポッター",
+        "♀ドラコ",
+        "cutegirl",
+        "Malfoid",
+        "ハリポタ1000users入り"
       ]
     },
     {
       "rank": 4,
-      "id": "151323585",
-      "title": "運転ロボじゃないってば！",
-      "userName": "zero",
-      "userId": "21950320",
-      "artworkUrl": "https://www.pixiv.net/artworks/151323585",
-      "thumbnailUrl": "/pixiv-weekly/151323585.jpg",
+      "id": "151654003",
+      "title": "CAFFEINE",
+      "userName": "lack",
+      "userId": "83739",
+      "artworkUrl": "https://www.pixiv.net/artworks/151654003",
+      "thumbnailUrl": "/pixiv-weekly/151654003.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/30/57/151323585_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/04/00/00/31/151654003_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/30/57/151323585_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/04/00/00/31/151654003_p0_master1200.jpg",
       "tags": [
-        "巡音ルカ",
-        "鏡音リン",
-        "鏡音レン",
-        "初音ミク",
-        "VOCALOID",
-        "VOCALOID1000users入り"
+        "オリジナル",
+        "カフェインちゃん",
+        "青舌"
       ]
     },
     {
       "rank": 5,
-      "id": "151305074",
-      "title": "(かわいすぎ……)",
-      "userName": "千種みのり@お仕事募集中",
-      "userId": "41106591",
-      "artworkUrl": "https://www.pixiv.net/artworks/151305074",
-      "thumbnailUrl": "/pixiv-weekly/151305074.jpg",
+      "id": "151638084",
+      "title": "秋の風",
+      "userName": "あきぺこコミケ日曜西め60ab",
+      "userId": "65882780",
+      "artworkUrl": "https://www.pixiv.net/artworks/151638084",
+      "thumbnailUrl": "/pixiv-weekly/151638084.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/26/17/15/41/151305074_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/03/17/51/00/151638084_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/26/17/15/41/151305074_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/03/17/51/00/151638084_p0_master1200.jpg",
       "tags": [
+        "少女",
         "オリジナル",
-        "女の子",
-        "志乃と恋",
-        "オリジナル1000users入り",
-        "白雪恋",
-        "早乙女志乃"
+        "セーラー服",
+        "黒髪ロング",
+        "風のいたずら",
+        "なびく髪",
+        "黒セーラー",
+        "オリジナル5000users入り",
+        "貧乳"
       ]
     },
     {
       "rank": 6,
-      "id": "151311802",
-      "title": "雪女、人里を楽しむ",
-      "userName": "ふに・無9",
-      "userId": "24367326",
-      "artworkUrl": "https://www.pixiv.net/artworks/151311802",
-      "thumbnailUrl": "/pixiv-weekly/151311802.jpg",
+      "id": "151676504",
+      "title": "小さな大冒険！",
+      "userName": "Sa-fu",
+      "userId": "77915733",
+      "artworkUrl": "https://www.pixiv.net/artworks/151676504",
+      "thumbnailUrl": "/pixiv-weekly/151676504.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/26/20/22/21/151311802_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/04/18/40/11/151676504_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/26/20/22/21/151311802_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/04/18/40/11/151676504_p0_master1200.jpg",
       "tags": [
-        "オリジナル",
-        "オカルト",
-        "怪異さんと俺",
-        "雪女"
+        "プロセカ",
+        "Leo/need",
+        "プロセカ1000users入り"
       ]
     },
     {
       "rank": 7,
-      "id": "151322037",
-      "title": "旅人の煽りにピキるロノヴァ",
-      "userName": "スコッティ",
-      "userId": "103410",
-      "artworkUrl": "https://www.pixiv.net/artworks/151322037",
-      "thumbnailUrl": "/pixiv-weekly/151322037.jpg",
+      "id": "151587945",
+      "title": "ハラジュクロック",
+      "userName": "寺田てら",
+      "userId": "2764844",
+      "artworkUrl": "https://www.pixiv.net/artworks/151587945",
+      "thumbnailUrl": "/pixiv-weekly/151587945.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/25/151322037_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/02/08/32/31/151587945_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/25/151322037_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/02/08/32/31/151587945_p0_master1200.jpg",
       "tags": [
-        "原神",
-        "ロノヴァ",
-        "原神5000users入り",
-        "白髪"
+        "オリジナル"
       ]
     },
     {
       "rank": 8,
-      "id": "151283666",
-      "title": "マーゴ",
-      "userName": "梅原生（せい）",
-      "userId": "3906246",
-      "artworkUrl": "https://www.pixiv.net/artworks/151283666",
-      "thumbnailUrl": "/pixiv-weekly/151283666.jpg",
+      "id": "151681741",
+      "title": "【Web再録】狂い咲けども人生",
+      "userName": "IZ",
+      "userId": "25594765",
+      "artworkUrl": "https://www.pixiv.net/artworks/151681741",
+      "thumbnailUrl": "/pixiv-weekly/151681741.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/26/00/00/39/151283666_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/04/20/59/27/151681741_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/26/00/00/39/151283666_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/04/20/59/27/151681741_p0_master1200.jpg",
       "tags": [
-        "魔法少女ノ魔女裁判",
-        "まのさば",
-        "宝生マーゴ"
+        "FGO",
+        "Fate/GrandOrder",
+        "高杉晋作(Fate)",
+        "ぐだ男"
       ]
     },
     {
       "rank": 9,
-      "id": "151322077",
-      "title": "黒百合 白百合-根の国底の果て-",
-      "userName": "七原しえ",
-      "userId": "114086",
-      "artworkUrl": "https://www.pixiv.net/artworks/151322077",
-      "thumbnailUrl": "/pixiv-weekly/151322077.jpg",
+      "id": "151632350",
+      "title": "commission",
+      "userName": "萩森じあ",
+      "userId": "2199289",
+      "artworkUrl": "https://www.pixiv.net/artworks/151632350",
+      "thumbnailUrl": "/pixiv-weekly/151632350.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/32/151322077_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/03/14/21/09/151632350_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/00/00/32/151322077_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/03/14/21/09/151632350_p0_master1200.jpg",
       "tags": [
-        "オリジナル",
-        "女の子",
-        "和風",
-        "和柄",
-        "CLIPSTUDIOPAINT"
+        "skeb",
+        "request",
+        "スケブ"
       ]
     },
     {
       "rank": 10,
-      "id": "151337408",
-      "title": "オナ中ヤンキーは風紀委員　その17",
-      "userName": "ハミタ",
-      "userId": "6667588",
-      "artworkUrl": "https://www.pixiv.net/artworks/151337408",
-      "thumbnailUrl": "/pixiv-weekly/151337408.jpg",
+      "id": "151577171",
+      "title": "中学生ぼっちちゃん",
+      "userName": "CORE",
+      "userId": "11211325",
+      "artworkUrl": "https://www.pixiv.net/artworks/151577171",
+      "thumbnailUrl": "/pixiv-weekly/151577171.jpg",
       "fallbackThumbnailUrls": [
-        "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/12/54/44/151337408_p0_master1200.jpg"
+        "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/02/00/02/09/151577171_p0_master1200.jpg"
       ],
-      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2026/10/27/12/54/44/151337408_p0_master1200.jpg",
+      "originalThumbnailUrl": "https://i.pximg.net/c/600x1200_90/img-master/img/2026/11/02/00/02/09/151577171_p0_master1200.jpg",
       "tags": [
-        "漫画",
-        "ざわ・・・ざわ・・・"
+        "ぼっち・ざ・ろっく!",
+        "後藤ひとり",
+        "ぼっちちゃん",
+        "女の子",
+        "パーカー",
+        "ピンク髪",
+        "ぼざろ",
+        "ぼっち・ざ・ろっく!1000users入り"
       ]
     }
   ]
